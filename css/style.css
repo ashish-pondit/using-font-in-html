@@ -1,0 +1,39 @@
+@font-face {
+    font-family: nikosh;
+    src: url('../fonts/Nikosh.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: nikosh-second;
+    src: url('../fonts/nikosh2.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: kalpurush;
+    src: url('../fonts/kalpurush.ttf');
+}
+
+@font-face {
+    font-family: poppins;
+    src: url('../fonts/Poppins-Regular.ttf');
+}
+body{
+    background-color: aquamarine;
+    color: darkslategray;
+}
+
+.nikosh-font{
+    font-family: nikosh;
+}
+
+.nikosh-second-font{
+    font-family: nikosh-second;
+}
+
+.kalpurush-font{
+    font-family: kalpurush;
+}
+
+.poppins-font{
+    font-family: poppins;
+}
